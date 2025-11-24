@@ -1,7 +1,5 @@
 # Qr-nova-scanner
 QR-Nova
-
-
 <!DOCTYPE html>
 <html lang="de">
 <head>
